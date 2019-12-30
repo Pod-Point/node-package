@@ -9,9 +9,9 @@ https://help.github.com/en/articles/creating-a-repository-from-a-template
 
 ### Installation
 
-To install the latest version of this templates  dev dependencies, run the following command:
+To install the latest version of this templates dev dependencies, run the following command:
 ```bash
-npm install --save-dev @types/faker @types/jest @pod-point/tslint-config-podpoint-base faker jest ts-jest tslint typescript
+npm install --save-dev @types/faker @types/jest @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-airbnb-typescript eslint-plugin-import faker jest ts-jest typescript
 ```
 
 ## Development
